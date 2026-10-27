@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="mailto:stetcojass@gmail.com">stetcojass@gmail.com</a> •
-  <a href="https://romaniansciencefestival.ro/wp-content/uploads/2026/09/Reinforcement-Learning-in-Dynamic-Environments_-A-Comparative-Analysis-of-Convergence-Reinforcement-Learning-Comparative-Study-COMPLETE_compressed-1.pdf?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAae8YxfaM9mTRoNZ56i-JfYG9XEP4ku_sN0otwLpzEwYtKRUqr782i5QunkrHg_aem_Q_joC7netKRPc0nd8oArYw">My Research Paper</a>
- <a href="https://www.instagram.com/stetco.jass/">Instagram</a> •
+  <a href="https://romaniansciencefestival.ro/wp-content/uploads/2026/09/Reinforcement-Learning-in-Dynamic-Environments_-A-Comparative-Analysis-of-Convergence-Reinforcement-Learning-Comparative-Study-COMPLETE_compressed-1.pdf?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAae8YxfaM9mTRoNZ56i-JfYG9XEP4ku_sN0otwLpzEwYtKRUqr782i5QunkrHg_aem_Q_joC7netKRPc0nd8oArYw">My Research Paper</a> •
+ <a href="https://www.instagram.com/stetco.jass/">Instagram</a> 
 </p>
 
 ---
